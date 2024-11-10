@@ -66,3 +66,4 @@ document.getElementById('new-game').addEventListener('click', () => {
     // Logic to generate a new puzzle and update the initialBoard
     generateBoard(); // Refresh board
 });
+Check and Verify
